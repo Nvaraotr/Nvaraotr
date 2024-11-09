@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 # Halo semua! 
 ## Kyapa habar pian?
 
-Perkenalkan nama saya **Ardhika Yoga Pratama**.\
+Perkenalkan nama saya **Ardhika Yoga Pratama**.
 
-Saya seorang **Mahasiswa** di [Universitas Muhammadiyah Malang](https://www.umm.ac.id/).\
+Saya seorang **Mahasiswa** di [Universitas Muhammadiyah Malang](https://www.umm.ac.id/).
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ardhika-yoga-pratama-847b03295/)ku ya.
 
@@ -29,6 +29,5 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 <p align="left">
 <a href="https://github.com/Nvaraotr">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nvaraotr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
